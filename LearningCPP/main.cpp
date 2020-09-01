@@ -57,6 +57,14 @@ int main(int argc, const char * argv[]) {
     
     std::cout << endl;
     
+    // Can do this too
+    
+    for (auto c: sclass) {
+         std::cout << c << " ";
+    }
+        
+    std::cout << endl;
+
     
     return 0;
 }
