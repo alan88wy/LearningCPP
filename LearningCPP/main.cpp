@@ -2,8 +2,8 @@
 //  main.cpp
 //  LearningCPP
 //
-//  Created by Alan Wan on 29/8/20.
-//  Copyright © 2020 Alan Wan. All rights reserved.
+//  Created by Alan on 29/8/20.
+//  Copyright © 2020 Alan. All rights reserved.
 //
 
 #include <iostream>
